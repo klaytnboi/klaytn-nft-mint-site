@@ -1,4 +1,4 @@
-# minting-site
+# klaytn-nft minting site
 
 ## Project setup
 ```
